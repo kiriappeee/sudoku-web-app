@@ -47,10 +47,11 @@
     --visited-digit-color: #aaaaaa;
     --paused-digit-color: #00000033;
     --digit-color: #4444dd;
-    --pencil-mark-color: #4444dd;
+    /* --pencil-mark-color: #4444dd; */
+    --pencil-mark-color: #725dc1;
     --error-fill-color: #ff111133;
     --error-text-color: #aa0000;
-    --selected-fill-color: #004fe368;
+    --selected-fill-color: #EADFB468;
     --matched-fill-color: #659bff44;
     --selected-matched-fill-color: #8bb3ff;
     --cell-bg-1-fill-color: transparent;
